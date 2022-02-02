@@ -1,6 +1,6 @@
 # EECS3311Lab03
 
-# EECS3311Lab03
+
 An application that displays an interface with two buttons
 
 The two buttons respectively
